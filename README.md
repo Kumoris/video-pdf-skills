@@ -114,4 +114,3 @@ $youtube-render-pdf   https://www.youtube.com/watch?v=vXb2QYOUzl4 请 spwan 多 
 ## License
 
 仓库保留了根目录下原有的 `LICENSE` 文件。使用、分发或二次修改时，请以该许可证为准。
-# video-pdf-skills-main

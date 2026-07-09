@@ -1,0 +1,4 @@
+interface:
+  display_name: "Local Video Render PDF"
+  short_description: "Turn a local video into structured LaTeX/PDF notes."
+  default_prompt: "Use $local-video-render-pdf to understand a local video file, combine sidecar subtitles or transcripts with visually inspected key frames, and produce a high-quality LaTeX/PDF note set."
